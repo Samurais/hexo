@@ -1,6 +1,9 @@
 .DS_Store
+nohup.out
+*.swp
 node_modules/
 tmp/
 *.log
 .idea/
 coverage/
+*sublime-*
